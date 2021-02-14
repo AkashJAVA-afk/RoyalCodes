@@ -5,7 +5,9 @@ import java.util.Date;
 public class Util {
 
 	public Date sysDate() {
-		System.out.println("After main in");
+
+		System.out.println("Main");
+
 		return new Date();
 	}
 }
