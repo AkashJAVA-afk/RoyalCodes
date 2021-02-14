@@ -4,4 +4,8 @@ public class F1 {
  void m2() {
 	 
  }
+ 
+ void m4() {
+	 
+ }
 }
